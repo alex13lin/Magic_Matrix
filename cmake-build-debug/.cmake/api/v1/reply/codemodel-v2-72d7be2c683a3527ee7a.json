@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug",
-		"source" : "/mnt/d/CLionProjects/Magic_Matrix"
+		"build" : "/mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug",
+		"source" : "/mnt/c/Users/a1016/CLionProjects/Magic_Matrix"
 	},
 	"version" : 
 	{

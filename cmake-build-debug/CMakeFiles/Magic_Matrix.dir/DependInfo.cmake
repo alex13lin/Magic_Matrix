@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/d/CLionProjects/Magic_Matrix/Magic.cpp" "CMakeFiles/Magic_Matrix.dir/Magic.cpp.o" "gcc" "CMakeFiles/Magic_Matrix.dir/Magic.cpp.o.d"
-  "/mnt/d/CLionProjects/Magic_Matrix/main.cpp" "CMakeFiles/Magic_Matrix.dir/main.cpp.o" "gcc" "CMakeFiles/Magic_Matrix.dir/main.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Magic_Matrix/Magic.cpp" "CMakeFiles/Magic_Matrix.dir/Magic.cpp.o" "gcc" "CMakeFiles/Magic_Matrix.dir/Magic.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Magic_Matrix/main.cpp" "CMakeFiles/Magic_Matrix.dir/main.cpp.o" "gcc" "CMakeFiles/Magic_Matrix.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

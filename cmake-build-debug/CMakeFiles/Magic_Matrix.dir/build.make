@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/d/CLionProjects/Magic_Matrix
+CMAKE_SOURCE_DIR = /mnt/c/Users/a1016/CLionProjects/Magic_Matrix
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug
+CMAKE_BINARY_DIR = /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Magic_Matrix.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/Magic_Matrix.dir/flags.make
 CMakeFiles/Magic_Matrix.dir/main.cpp.o: CMakeFiles/Magic_Matrix.dir/flags.make
 CMakeFiles/Magic_Matrix.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Magic_Matrix.dir/main.cpp.o: CMakeFiles/Magic_Matrix.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Magic_Matrix.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Magic_Matrix.dir/main.cpp.o -MF CMakeFiles/Magic_Matrix.dir/main.cpp.o.d -o CMakeFiles/Magic_Matrix.dir/main.cpp.o -c /mnt/d/CLionProjects/Magic_Matrix/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Magic_Matrix.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Magic_Matrix.dir/main.cpp.o -MF CMakeFiles/Magic_Matrix.dir/main.cpp.o.d -o CMakeFiles/Magic_Matrix.dir/main.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/main.cpp
 
 CMakeFiles/Magic_Matrix.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Magic_Matrix.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/CLionProjects/Magic_Matrix/main.cpp > CMakeFiles/Magic_Matrix.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/main.cpp > CMakeFiles/Magic_Matrix.dir/main.cpp.i
 
 CMakeFiles/Magic_Matrix.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Magic_Matrix.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/CLionProjects/Magic_Matrix/main.cpp -o CMakeFiles/Magic_Matrix.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/main.cpp -o CMakeFiles/Magic_Matrix.dir/main.cpp.s
 
 CMakeFiles/Magic_Matrix.dir/Magic.cpp.o: CMakeFiles/Magic_Matrix.dir/flags.make
 CMakeFiles/Magic_Matrix.dir/Magic.cpp.o: ../Magic.cpp
 CMakeFiles/Magic_Matrix.dir/Magic.cpp.o: CMakeFiles/Magic_Matrix.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Magic_Matrix.dir/Magic.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Magic_Matrix.dir/Magic.cpp.o -MF CMakeFiles/Magic_Matrix.dir/Magic.cpp.o.d -o CMakeFiles/Magic_Matrix.dir/Magic.cpp.o -c /mnt/d/CLionProjects/Magic_Matrix/Magic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Magic_Matrix.dir/Magic.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Magic_Matrix.dir/Magic.cpp.o -MF CMakeFiles/Magic_Matrix.dir/Magic.cpp.o.d -o CMakeFiles/Magic_Matrix.dir/Magic.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/Magic.cpp
 
 CMakeFiles/Magic_Matrix.dir/Magic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Magic_Matrix.dir/Magic.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/CLionProjects/Magic_Matrix/Magic.cpp > CMakeFiles/Magic_Matrix.dir/Magic.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/Magic.cpp > CMakeFiles/Magic_Matrix.dir/Magic.cpp.i
 
 CMakeFiles/Magic_Matrix.dir/Magic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Magic_Matrix.dir/Magic.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/CLionProjects/Magic_Matrix/Magic.cpp -o CMakeFiles/Magic_Matrix.dir/Magic.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/Magic.cpp -o CMakeFiles/Magic_Matrix.dir/Magic.cpp.s
 
 # Object files for target Magic_Matrix
 Magic_Matrix_OBJECTS = \
@@ -109,7 +109,7 @@ Magic_Matrix: CMakeFiles/Magic_Matrix.dir/main.cpp.o
 Magic_Matrix: CMakeFiles/Magic_Matrix.dir/Magic.cpp.o
 Magic_Matrix: CMakeFiles/Magic_Matrix.dir/build.make
 Magic_Matrix: CMakeFiles/Magic_Matrix.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Magic_Matrix"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Magic_Matrix"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Magic_Matrix.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/Magic_Matrix.dir/clean:
 .PHONY : CMakeFiles/Magic_Matrix.dir/clean
 
 CMakeFiles/Magic_Matrix.dir/depend:
-	cd /mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/d/CLionProjects/Magic_Matrix /mnt/d/CLionProjects/Magic_Matrix /mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug /mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug /mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug/CMakeFiles/Magic_Matrix.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/a1016/CLionProjects/Magic_Matrix /mnt/c/Users/a1016/CLionProjects/Magic_Matrix /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug /mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug/CMakeFiles/Magic_Matrix.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Magic_Matrix.dir/depend
 

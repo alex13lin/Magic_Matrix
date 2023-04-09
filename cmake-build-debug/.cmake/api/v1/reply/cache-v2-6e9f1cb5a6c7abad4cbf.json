@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug"
+			"value" : "/mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "-j12"
+			"value" : "-j8"
 		},
 		{
 			"name" : "CMAKE_COLOR_MAKEFILE",
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/d/CLionProjects/Magic_Matrix"
+			"value" : "/mnt/c/Users/a1016/CLionProjects/Magic_Matrix"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1215,7 +1215,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/d/CLionProjects/Magic_Matrix/cmake-build-debug"
+			"value" : "/mnt/c/Users/a1016/CLionProjects/Magic_Matrix/cmake-build-debug"
 		},
 		{
 			"name" : "Magic_Matrix_IS_TOP_LEVEL",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/d/CLionProjects/Magic_Matrix"
+			"value" : "/mnt/c/Users/a1016/CLionProjects/Magic_Matrix"
 		},
 		{
 			"name" : "ProcessorCount_cmd_nproc",
