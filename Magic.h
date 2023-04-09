@@ -15,17 +15,17 @@ namespace Magic {
     public:
         explicit Magic(int);
 
+        ~Magic();
+
         void run();
 
         void output_square();
 
-        void delete_square();
-
     private:
         void _init_square();
 
-        int _n;
-        int **_square;
+        int n_;
+        int **square_;
     };
 
 } // Magic

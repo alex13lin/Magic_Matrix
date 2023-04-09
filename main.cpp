@@ -5,9 +5,9 @@ int main() {
     int num;
     std::cout << "Input the size of magic matrix: ";
     std::cin >> num;
-    Magic::Magic magic(num);
-    magic.run();
-    magic.output_square();
-    magic.delete_square();
+    auto *magic = new Magic::Magic(num);
+    magic->run();
+    magic->output_square();
+
     return 0;
 }
